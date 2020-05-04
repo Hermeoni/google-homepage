@@ -1,0 +1,106 @@
+header {
+    position: top;
+    padding-bottom: 10%;
+  }
+  button.sign {
+    float: right;
+    background: #A6BCF3;
+    border-radius: 3px;
+    border: #A6BCF3;
+    height: 24px;
+    width: 60px;
+  }
+  .initial {
+    padding-right: 1em;
+  }
+  .second {
+    padding-right: 1em;
+  }
+  .third {
+    float: right;
+    padding-right: 1em;
+  }
+  .fourth {
+    float: right;
+    padding-right: 1em;
+  }
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30%;
+  }
+  
+  
+  img {
+    display: flex;
+    justify-content: center;
+    
+  }
+  
+  .input-field {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 100px;
+    padding-right: 100px;
+    border-radius: 80px;
+  }
+  
+  button.Search {
+    position: relative;
+    border-radius: 10px;
+    top: 30px;
+  }
+  
+  button.Lucky {
+    position: relative;
+    border-radius: 10px;
+    top: 30px;
+  }
+  .input-field {
+    border-radius: 20px;
+  }
+  li {
+    display: inline;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background: #EFF0F0;
+    padding: 3px;
+  }
+  .fifth {
+    padding-right: 1em;
+  }
+  .sixth {
+    padding-right: 1em;
+  }
+  .seventh {
+    padding-right: 1em;
+  }
+  .eigth {
+    float: right;
+    padding-right: 1em;
+  }
+  .ninth {
+    float: right;
+    padding-right: 1em;
+  }
+  .tenth {
+    float: right;
+    padding-right: 1em;
+  }
